@@ -32,6 +32,7 @@ if (isset($_POST['create'])) {
 
     session_start();
     $_SESSION['username'] = $_POST['username'];
+    $_SESSION['image'] = $gambar;
     $_SESSION['hasLogin'] = true;
 
     header("Location: index.php");

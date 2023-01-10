@@ -65,7 +65,7 @@
                 <i class='bx bxs-cube-alt text-xl text-sky-400'></i>
             </div>
             <h1 class="text-white text-2xl leading-relaxed font-semibold capitalize">Selamat Datang, kembali!</h1>
-            <p class="text-white/40 mt-4">Kami punya info penting untuk, sekarang movee punya tayangan baru yang bakal menarik untuk kamu tonton sekarang</p>
+            <p class="text-white/40 mt-4">Kami punya info penting!, sekarang disini punya tayangan baru yang bakal menarik untuk kamu tonton</p>
             
         </div>        
     </div>

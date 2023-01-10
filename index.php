@@ -24,7 +24,8 @@
                 </li>
                 <li>
                 <?php if(isset($_SESSION['hasLogin'])) : ?>
-                    <a href="./utils/logout.php">
+                    <a href="./utils/logout.php" class="flex rounded-full items-center gap-4 p-2 pl-3 border border-white/20">
+                        <p><?= $_SESSION['username'] ?></p>
                         <img src="./assets/images/<?= $_SESSION['image'] ?>" class="h-8 w-8 rounded-full"/>
                     </a>
                 <?php else : ?>
